@@ -17,8 +17,8 @@
 
 - 🔎 Estoy en búsqueda de **nuevos proyectos y retos**.
 - 🌐 Web Personal [link](https://www.0xabdulkhalid.ml)
-- 🏢 Actualmente trabajo como **Técnico de Red.**
 - 🎓 Graduado en **Inteligencia Artificial y Big Data.**
+- 🏢 Actualmente trabajo como **Técnico de Red.**
 - 💪 **Constante** al enfrentar desafíos y con **rápida adaptabilidad** a nuevas situaciones.
 
 <br><br>
