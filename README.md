@@ -32,7 +32,7 @@
 
 - **Lenguajes**:
     
-	[![My Skills](https://skillicons.dev/icons?i=python,java &theme=light)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=py,java &theme=light)](https://skillicons.dev)
 
 <br>   
     
