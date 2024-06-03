@@ -138,23 +138,16 @@
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
 <a href="https://linkedin.com/in/jose-pablo-fernandez-novoa" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jose Pablo Fernández Novoa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="mailto:josepfernandezn@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Jose Pablo Fernández Novoa-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 	
-</ul>
 </div>
 
 <br>
@@ -165,7 +158,7 @@
 
 <div align='center'>
 
-## <b>El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito✨</b>
+## <b>✨El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito✨</b>
 
 </div>
 <br>
