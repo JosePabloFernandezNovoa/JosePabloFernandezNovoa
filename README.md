@@ -119,6 +119,12 @@
 <div align="center">
 ![Jose Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa&show_icons=true&theme=transparent)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePabloFernandezNovoa)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
 </div>
 
 <br>
