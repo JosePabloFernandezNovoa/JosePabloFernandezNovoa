@@ -117,9 +117,8 @@
 <br>
 
 <div align="center">
-
-![Jose Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa&show_icons=true&theme=transparent)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
+[![Jose Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePabloFernandezNovoa&layout=compact)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
 
 </div>
 
