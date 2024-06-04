@@ -118,7 +118,7 @@
 
 <div align="center">
 
-[![Estadísticas de GitHub de Jose Pablo](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub de Jose Pablo](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)]
  
 </div>
 
