@@ -119,6 +119,7 @@
 <div align="center">
 
 [![Estadísticas de GitHub de Jose Pablo](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)]
+[![Estadísticas de GitHub de Jose Pablo](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa&show_icons=true&theme=transparent)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
  
 </div>
 
