@@ -118,8 +118,8 @@
 
 <div align="center">
 
-[![Estadísticas de GitHub de Jose Pablo](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)]
-[![Estadísticas de GitHub de Jose Pablo](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa&show_icons=true&theme=transparent)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
+[![Estadísticas de GitHub de Jose Pablo](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePabloFernandezNovoa&layout=compact)]
  
 </div>
 
