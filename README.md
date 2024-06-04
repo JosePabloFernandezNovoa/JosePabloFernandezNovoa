@@ -117,9 +117,8 @@
 <br>
 
 <div align="center">
-[![Jose Pablo estadisticas](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
-
-
+![Jose Pablo estadisticas](https://github-readme-stats.vercel.app/api?username=JosePabloFernandezNovoa&show_icons=true&theme=transparent)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePabloFernandezNovoa&layout=compact)](https://github.com/JosePabloFernandezNovoa/github-readme-stats)
 </div>
 
 <br>
