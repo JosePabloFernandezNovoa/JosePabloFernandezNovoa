@@ -16,7 +16,7 @@
 <br>
 
 - 🔎 Estoy en búsqueda de **nuevos proyectos y retos**.
-- 🌐 Web Personal [link]() 🚧(en construcción)🚧
+- 🌐 Web Personal [link](portfoliojosepablofernandeznovoa.vercel.app) 🚧(en construcción)🚧
 - 🎓 Graduado en **Inteligencia Artificial y Big Data.**
 - 🏢 Actualmente trabajo como **Técnico de Red.**
 - 💪 **Constante** al enfrentar desafíos y con **rápida adaptabilidad** a nuevas situaciones.
